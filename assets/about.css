@@ -1,0 +1,109 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    background-color:whitesmoke;
+}
+
+header{
+    background-color: steelblue;
+    width: 100%;
+    
+}
+
+header section img{
+    width: 200px;
+    margin: 15px ;
+    float: left;
+}
+
+header section h1{
+    font-size: 65px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+    float: right;
+    padding: 40px 660px 50px 0px;    
+}
+
+nav{
+    background-color: steelblue;
+
+}
+
+nav ul li{
+    display: inline;
+    font-size: 25px;
+    color: aliceblue;
+   padding: 20px 0px 0px 310px;
+}
+
+.ab {
+    float: left;
+    padding: 10px 50px 13px ;
+    font-size: 30px;
+
+}
+
+#dd{
+    text-align: center;   
+    margin: 100px 200px 100px 0px;
+    font-size: large;
+}
+
+main section h1{
+    float: left;
+
+}
+
+input[type=email]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=text]{
+    width: 100%;
+    padding: 100px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+ button {
+    width: 100%;
+    padding: 20px 30px;
+    margin: 8px 0;
+    border-radius: 4px;
+ }
+
+footer{
+    background-color: steelblue;
+    width: 100%;
+    
+}
+footer section img{
+    width: 200px;
+    margin: 15px ;
+    float: left;
+}
+div {
+    float: right;
+    padding: 10px 200px;
+    font-size: 30px;
+}
+
+#cop{
+
+    text-align: center;
+    font-size: 25px;
+    padding: 10px 0px 0px 0px;
+    margin: 0px 390px 0px 0px;
+}
