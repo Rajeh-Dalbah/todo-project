@@ -1,0 +1,87 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    background-color:whitesmoke;
+}
+
+header{
+    background-color: steelblue;
+    width: 100%;
+    
+}
+
+header section img{
+    width: 200px;
+    margin: 15px ;
+    float: left;
+}
+
+header section h1{
+    font-size: 65px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+    float: right;
+    padding: 40px 660px 50px 0px;    
+}
+
+nav{
+    background-color: steelblue;
+
+}
+
+nav ul li{
+    display: inline;
+    font-size: 25px;
+   padding: 120px 0px 0px 310px;
+}
+
+#raj{
+    float: left;
+    padding: 10px 50px 450px ;
+    font-size: 30px;
+
+}
+
+table{
+    text-align: center;
+    width: 55%;
+    background-color: steelblue;
+    margin-top: 100px;
+  
+}
+th {
+    font-size: 35px;
+    
+}
+td, th{
+    border: 1px solid black;
+    padding: 2%;
+}
+
+footer{
+    background-color: steelblue;
+    width: 100%;
+    
+}
+footer section img{
+    width: 200px;
+    margin: 15px ;
+    float: left;
+}
+div {
+    float: right;
+    padding: 10px 200px;
+    font-size: 30px;
+}
+
+#cop{
+
+    text-align: center;
+    font-size: 25px;
+    padding: 10px 0px 0px 0px;
+    margin: 0px 390px 0px 0px;
+}
