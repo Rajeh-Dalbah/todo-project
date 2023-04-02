@@ -1,11 +1,13 @@
 'use strict';
 
 var firstName = prompt("Enter your name");
-var gender = prompt("Enter your gender please...").toLowerCase
-if (gender != "male" || gender != "female"){
-    prompt("Please your gender...");
+var gender = prompt("Enter your gender please...").toLowerCase()
+if (gender == "male" || gender == "female"){
+    
     } 
-        
+else {
+    prompt("Please your gender...");
+}        
 var age = prompt("Please enter your age...");
 if (age > 0){
 }
