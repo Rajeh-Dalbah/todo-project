@@ -42,7 +42,7 @@ function validateQuestion (answer){
         answers.push(answer);
      } 
     else {
-         answers.push("Invaled");
+         answers.push("Invalid");
      }
 }
 
