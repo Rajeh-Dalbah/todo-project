@@ -59,4 +59,4 @@ function printAnswers(arr){
         console.log("answer of question " + i + " is : " +answers[i]);
     }
     
- printAnswers(answers); 
+ printAnswers(answers);  
